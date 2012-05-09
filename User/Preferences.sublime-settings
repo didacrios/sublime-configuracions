@@ -2,19 +2,5 @@
 	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
 	"dictionary": "Packages/User/Languages/catalan/catalan.dic",
 	"font_size": 10.0,
-	"ignored_words":
-	[
-		"Adreça",
-		"Distribuci",
-		"Distribuci",
-		"Distribuci",
-		"Informaci",
-		"Informaci",
-		"Província",
-		"Semafors",
-		"Telèfon",
-		"electrònica",
-		"enviïns"
-	],
 	"spell_check": true
 }
