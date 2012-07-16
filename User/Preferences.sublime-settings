@@ -2,5 +2,10 @@
 	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
 	"dictionary": "Packages/User/Languages/catalan/catalan.dic",
 	"font_size": 10.0,
-	"spell_check": true
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"spell_check": false,
+	"word_wrap": "true"
 }
