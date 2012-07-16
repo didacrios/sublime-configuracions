@@ -1,11 +1,14 @@
 {
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
-	"dictionary": "Packages/User/Languages/catalan/catalan.dic",
-	"font_size": 10.0,
+	"theme": "Dark.sublime-theme",
+	"highlight_line": false,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"spell_check": false,
+	"scroll_speed": 2.0,
 	"word_wrap": "true"
+// home
 }
