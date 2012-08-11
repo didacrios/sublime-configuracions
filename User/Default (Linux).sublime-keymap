@@ -1,2 +1,9 @@
 [
+  { "keys": ["ctrl+d"], "command": "duplicate_line" },
+	{ "keys": ["shift+alt+d"], "command": "insert_timestamp" },
+
+	{ "keys": ["ctrl+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+	{ "keys": ["ctrl+g"], "command": "find_under_expand" },
+
+	{ "keys": ["ctrl+."], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
 ]
