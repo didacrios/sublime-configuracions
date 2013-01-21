@@ -1,3 +1,34 @@
 {
-	"auto_upgrade_last_run": 1336550805
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"ColorPicker",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"ExportHtml",
+		"JsMinifier",
+		"LESS",
+		"LESS-build",
+		"LoremIpsum",
+		"LoremPixel",
+		"Package Control",
+		"PlainTasks",
+		"Print to HTML",
+		"Sass",
+		"Search Stack Overflow",
+		"SFTP",
+		"sublime-github",
+		"SublimeLinter",
+		"Sublimipsum",
+		"Theme - Soda",
+		"View In Browser",
+		"Xdebug",
+		"YUI Compressor",
+		"ZenCoding"
+	],
+	"repositories":
+	[
+		"https://github.com/weslly/ColorPicker"
+	]
 }
